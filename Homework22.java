@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Homework22 {
 
   public static void main(String[] args) {
-
+//java
     Scanner scanner = new Scanner(System.in);
 
     int[] arr = new int[5];
@@ -16,8 +16,5 @@ public class Homework22 {
       }
     }
   }
-
-}
-
 
 }
